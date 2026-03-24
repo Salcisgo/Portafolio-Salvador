@@ -35,4 +35,3 @@ Para publicar este sitio en GitHub Pages:
 - `index.html`: La página principal del portafolio con toda la información del CV.
 - `style.css`: Los estilos CSS para una presentación profesional.
 - `script.js`: Código JavaScript (actualmente vacío).
-- `CV Salvador Cisneros.pdf`: Archivo PDF del currículum (opcional para descarga).
