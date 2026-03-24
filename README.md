@@ -9,6 +9,7 @@ Este es mi portafolio personal, donde puedes encontrar toda mi información prof
 - **Experiencia Profesional**: Detalles de mis puestos anteriores.
 - **Educación y Certificaciones**: Mi formación académica y certificaciones.
 - **Contacto**: Información de contacto y enlaces.
+- **Solicitar CV**: Formulario para que los visitantes soliciten una copia del CV en PDF.
 
 ## Cómo usar
 
